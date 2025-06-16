@@ -3,7 +3,7 @@
     "bundle": true,
     "version": "0.1.1",
     "main": "@scom/docs",
-    "useHashRouting": false,
+    "useHashRouting": true,
     "dependencies": {
         "@scom/scom-code-viewer": "*",
         "@scom/docs": "*"
