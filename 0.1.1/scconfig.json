@@ -1,0 +1,170 @@
+{
+    "entrypoint": "0.1.1/data",
+    "bundle": true,
+    "version": "0.1.1",
+    "main": "@scom/docs",
+    "useHashRouting": false,
+    "dependencies": {
+        "@scom/scom-code-viewer": "*",
+        "@scom/docs": "*"
+    },
+    "meta": {
+        "favicon": "data/.scbook/assets/img/favicon.png",
+        "title": "Docs",
+        "description": "Documentation",
+        "og:site_name": "DOCS",
+        "og:url": "",
+        "og:title": "",
+        "og:type": "website",
+        "mobile-web-app-capable": "yes"
+    },
+    "themes": {
+        "default": "dark",
+        "light": {
+            "background": {
+                "default": "color-mix(in srgb,color-mix(in srgb, rgb(70 70 70), rgb(251 252 252) 96%),transparent calc(100% - 100%))",
+                "paper": "color-mix(in srgb,color-mix(in srgb, rgb(30 30 30), rgb(251 252 252) 92%),transparent calc(100% - 100%))",
+                "main": "#fff",
+                "modal": "#fff",
+                "gradient": "linear-gradient(135deg, #f8f9fa 0%, #f1f3f5 20%, #e9ecef 40%, #dee2e6 100%)"
+            },
+            "colors": {
+                "primary": {
+                    "contrastText": "#fff",
+                    "dark": "#FE8B10",
+                    "light": "#FEC710",
+                    "main": "rgb(50 110 129)"
+                },
+                "secondary": {
+                    "main": "color-mix(in srgb,color-mix(in srgb, rgb(180 180 180), rgb(20 20 20) 94.5%),transparent calc(100% - 100% * .08))",
+                    "light": "color-mix(in srgb,color-mix(in srgb, rgb(180 180 180), rgb(20 20 20) 94.5%),transparent calc(100% - 100% * .06))"
+                },
+                "warning": {
+                    "main": "rgb(185, 94, 4)",
+                    "light": "hsla(50, 82%, 75%, .4)"
+                },
+                "success": {
+                    "main": "rgb(0, 136, 71)"
+                },
+                "error": {
+                    "main": "rgb(211, 61, 61)"
+                },
+                "info": {
+                    "main": "rgb(63 137 161/1)",
+                    "dark": "rgb(38 82 97/1)"
+                }
+            },
+            "divider": "color-mix(in srgb,color-mix(in srgb, rgb(70 70 70), rgb(20 20 20) 96%),transparent calc(100% - 100% * .08))",
+            "layout": {
+                "container": {
+                    "maxWidth": "77.5rem"
+                }
+            },
+            "text": {
+                "primary": "color-mix(in srgb,color-mix(in srgb, rgb(180 180 180), rgb(20 20 20) 94.5%),transparent calc(100% - 100%))",
+                "secondary": "#9b9b9b",
+                "disabled": "color-mix(in srgb,color-mix(in srgb, rgb(180 180 180), rgb(20 20 20) 94.5%),transparent calc(100% - 100% * .24))"
+            },
+            "action": {
+                "active": "rgb(101 161 180)",
+                "activeBackground": "rgb(63 137 161/.12)",
+                "hoverBackground": "color-mix(in srgb,color-mix(in srgb, rgb(180 180 180), rgb(20 20 20) 94.5%),transparent calc(100% - 100% * .04))",
+                "hover": "color-mix(in srgb,color-mix(in srgb, rgb(180 180 180), rgb(20 20 20) 94.5%),transparent calc(100% - 100% * .88))",
+                "selected": "rgb(101 161 180)",
+                "selectedBackground": "rgb(63 137 161/.12)"
+            },
+            "shadows": {
+                "0": "inset 0 0 0 0 #fff,inset 0 0 0 calc(1px) color-mix(in srgb,color-mix(in srgb, rgb(180 180 180), rgb(20 20 20) 94.5%),transparent calc(100% - 100% * 0.04)),0 0 #0000",
+                "1": "0px 1px 1px rgba(0,0,0,.09),0px 3.267px 2.754px rgba(0,0,0,.05),0px 6.278px 6.63px rgba(0,0,0,.05),0px 14px 22px rgba(0,0,0,.04)"
+            },
+            "typography": {
+                "fontSize": "16px"
+            },
+            "docs": {
+                "background": "#fff",
+                "text0": "color-mix(in srgb,color-mix(in srgb, rgb(180 180 180), rgb(20 20 20) 94.5%),transparent calc(100% - 100%))",
+                "text1": "color-mix(in srgb,color-mix(in srgb,rgb(180 180 180),rgb(20 20 20) 94.5%),transparent calc(100% - 100% * .72))"
+            },
+            "input": {
+                "background": "color-mix(in srgb,color-mix(in srgb, rgb(180 180 180), rgb(20 20 20) 94.5%),transparent calc(100% - 100% * .04))",
+                "fontColor": "color-mix(in srgb,color-mix(in srgb, rgb(180 180 180), rgb(20 20 20) 96%),transparent calc(100% - 100% * .64))"
+            }
+        },
+        "dark": {
+            "background": {
+                "default": "color-mix(in srgb, color-mix(in srgb, rgb(180 180 180), rgb(251 252 252) 94.5%), transparent calc(100% - 100%* .16))",
+                "paper": "color-mix(in srgb,color-mix(in srgb,rgb(200 200 200),rgb(20 20 20) 92%),transparent calc(100% - 100% * 1))",
+                "main": "color-mix(in srgb,color-mix(in srgb, rgb(200 200 200), rgb(20 20 20) 92%),transparent calc(100% - 100% * 1))",
+                "modal": "color-mix(in srgb,color-mix(in srgb, rgb(180 180 180), rgb(20 20 20) 94.5%),transparent calc(100% - 100% * 1))",
+                "gradient": "linear-gradient(135deg, #ffefa6 0%, #fde192 20%, #f8bc5d 40%, #f39323 100%)"
+            },
+            "colors": {
+                "primary": {
+                    "contrastText": "#fff",
+                    "dark": "#FE8B10",
+                    "light": "#FEC710",
+                    "main": "rgb(50 110 129)"
+                },
+                "secondary": {
+                    "contrastText": "#fff",
+                    "light": "color-mix(in srgb,color-mix(in srgb, rgb(70 70 70), rgb(251 252 252) 96%),transparent calc(100% - 100% * .04))",
+                    "main": "color-mix(in srgb,color-mix(in srgb, rgb(70 70 70), rgb(251 252 252) 96%),transparent calc(100% - 100% * .64))",
+                    "dark": "#282828"
+                },
+                "warning": {
+                    "dark": "#ff9f2f",
+                    "light": "#ff9f2f",
+                    "main": "#ff9f2f"
+                },
+                "success": {
+                    "main": "#66e205",
+                    "light": "rgba(0, 186, 124, 0.1)"
+                },
+                "error": {
+                    "main": "#bc1870",
+                    "light": "rgba(249, 24, 128, 0.1)"
+                },
+                "info": {
+                    "main": "rgb(63 137 161)",
+                    "dark": "rgb(38 82 97)"
+                }
+            },
+            "divider": "color-mix(in srgb,color-mix(in srgb, rgb(70 70 70), rgb(251 252 252) 96%),transparent calc(100% - 100% * .08))",
+            "layout": {
+                "container": {
+                    "maxWidth": "77.5rem"
+                }
+            },
+            "text": {
+                "secondary": "#666666",
+                "primary": "#fff",
+                "disabled": "color-mix(in srgb,color-mix(in srgb, rgb(70 70 70), rgb(251 252 252) 96%),transparent calc(100% - 100% * .24))"
+            },
+            "action": {
+                "active": "rgb(101 161 180)",
+                "activeBackground": "rgb(63 137 161/.12)",
+                "hoverBackground": "color-mix(in srgb,color-mix(in srgb, rgb(70 70 70), rgb(251 252 252) 96%),transparent calc(100% - 100% * .08))",
+                "hover": "color-mix(in srgb,color-mix(in srgb, rgb(70 70 70), rgb(251 252 252) 96%),transparent calc(100% - 100% * .88))",
+                "selected": "rgb(101 161 180)",
+                "selectedBackground": "rgb(63 137 161/.12)"
+            },
+            "shadows": {
+                "0": "inset 0 0 0 0 #fff,inset 0 0 0 calc(1px) color-mix(in srgb,color-mix(in srgb, rgb(70 70 70), rgb(251 252 252) 100%),transparent calc(100% - 100% * 0.04)),0 0 #0000",
+                "1": "0 0 0 0 #fff,0px 1px 1px rgba(0,0,0,.09),0px 3.267px 2.754px rgba(0,0,0,.05),0px 6.278px 6.63px rgba(0,0,0,.05),0px 14px 22px rgba(0,0,0,.04)"
+            },
+            "typography": {
+                "fontSize": "16px"
+            },
+            "input": {
+                "background": "color-mix(in srgb,color-mix(in srgb, rgb(70 70 70), rgb(251 252 252) 94.5%),transparent calc(100% - 100% * .04))",
+                "fontColor": "color-mix(in srgb,color-mix(in srgb, rgb(70 70 70), rgb(251 252 252) 96%),transparent calc(100% - 100% * .64))"
+            },
+            "docs": {
+                "background": "color-mix(in srgb,color-mix(in srgb, rgb(200 200 200), rgb(20 20 20) 92%),transparent calc(100% - 100% * 1))",
+                "text0": "#fff",
+                "text1": "color-mix(in srgb,color-mix(in srgb,rgb(180 180 180),rgb(255 255 255) 94.5%),transparent calc(100% - 100% * .72))"
+            }
+        }
+    },
+    "packages": []
+}

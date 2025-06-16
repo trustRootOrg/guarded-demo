@@ -1,0 +1,12 @@
+{
+  "files": {
+    "toastui-editor-all.min.js": "sha256-SHk9r1F0f9e7Kz8xATQmRQl/p/45si/R489Mvfw2ets=",
+    "toastui-editor-plugin-code-syntax-highlight-all.min.js": "sha256-bzsY5d3cX+YpnmfgRpf50boWIZYFNy/9FGGaBwpQkeI=",
+    "toastui-editor-plugin-color-syntax.min.js": "sha256-N7bO7KaJINbryhJz1WehxJ6n+FkTyQ4FRqqNHPILx0c=",
+    "toastui-editor-plugin-table-merged-cell.min.js": "sha256-tMcTIeSga4gSQFUguZ4T5Bk0sMt5fjZwxIQ8wdmVFi0=",
+    "toastui-editor-plugin-uml.min.js": "sha256-zgq0VZT3q746gDdnroX2Y/TzhiN3k7cglbf+xJkis0k=",
+    "toastui-editor.css": "sha256-tV3pGYCsttkc5ZJvzEMozDxaI0MhWmwK79WdrIXDgi0=",
+    "toastui-plugins.min.css": "sha256-YSAmrZqCHP4XrMuFHenbW3or8WnadsTulm5Ht+0ZQSg=",
+    "tui-color-picker.min.js": "sha256-H1uIrHflc2uWS7kW0sy6iM91318Y6bk4oYtK5z0WkuE="
+  }
+}

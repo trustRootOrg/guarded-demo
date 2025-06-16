@@ -1,0 +1,22 @@
+{
+  "directories": {
+    ".scbook": "sha256-udpC7QvWvhpWSPPzeCc39jvthCaLy3DYmbvv2Zg+Rjk=",
+    "guard": "sha256-SubRufTtZxB32QzrU1g2lWcCkbzzNsGGlyQ5AWjau5A="
+  },
+  "files": {
+    "1-introduction.md": "sha256-ZXSoi2Y519vCIylEBFUyHGMZZ4usGf31CjZSprg6ZKo=",
+    "10-references.md": "sha256-2VS8gNdo9xmAjoX1n1ppIJKJPE2CiMj6/rp/w41FoIo=",
+    "2-problem-statement.md": "sha256-ZST9fIuLlReBDRg7aGKVjX8pRjPOcHD/cfBalSlvsm4=",
+    "3-protocol-overview.md": "sha256-olr8iQ8kL3q3IBdnOXXLB1DDbRdEByApjQ1ZCymHCeg=",
+    "4-technical-specs.md": "sha256-keZaFJCKaj1OxgBnNcYcH13NUOk7aZOYLvQ0EkMZ1Ck=",
+    "5-value-proposition.md": "sha256-3no4+Mfc/IOQ3aMaxYfHC3+Q+2rRbXHT01EAK5WfGy8=",
+    "6-vision.md": "sha256-yHsmjhYK2Io2d8CpUrq3gYqXqnYRFfwYW4qXWbZx5xc=",
+    "7-roadmap.md": "sha256-Wg/xK1fih8kv6DoJ/y0NJLdu48TZG/IWslRlANEieeI=",
+    "8-team.md": "sha256-YPhfK51N8roVT2Max3cnnbk4Z1+h4raTI+zIS3eqhAs=",
+    "9-conclusion.md": "sha256-IPEj6yWd0+2r8MoPn9LSFfT5pXHQTRM4+0DrIqVXCZ0=",
+    "HEADER.md": "sha256-g2jLmHFOML1LyNSTk7qMN4ASf42Fu27NO/aBl5cRZ2w=",
+    "README.md": "sha256-nyKvcshMpUxtqDlXUXPMlSs0B8Bnyj5UROHU8bVqI5Q=",
+    "SUMMARY.md": "sha256-y1fxQ3IOBnmN2Ko1sEkO4j2tUBsZ/9u7ccVdedJPycY=",
+    "abstract.md": "sha256-4CzHaGeA8gJZbH7NVBfgm7BQCYtNuRDHp7EIuhz19iI="
+  }
+}

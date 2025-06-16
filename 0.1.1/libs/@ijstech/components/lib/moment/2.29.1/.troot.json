@@ -1,0 +1,9 @@
+{
+  "directories": {
+    "locale": "sha256-GhspmZcMARuX1xoyZA32kFI0LslTh8LqdDsJ0Zv8a+M=",
+    "min": "sha256-j+Wql+QsUi0dXs3OmB1HABXZYevR0D4OTcQk+x4Wib4="
+  },
+  "files": {
+    "moment.js": "sha256-hC15JA74BR1vwR5rQWenzx9gmudzPneD7KzBIkyRMCA="
+  }
+}

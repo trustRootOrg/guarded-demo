@@ -1,0 +1,11 @@
+{
+  "files": {
+    "icon.svg": "sha256-cTLoc4EQrutIICtxv34pqswgzbQ3Zzjhu/nsDhYhugw=",
+    "image1.png": "sha256-dR+wPCUnBVnz+P14C1+F+45Xa4reGsH4WiguXNWc/Bk=",
+    "image2.png": "sha256-t8tCSqNhtVmwpIVxR9wISoRqPFcL7UaNoiYzX6RquG4=",
+    "image3.png": "sha256-44iIPAgDnhrHqTGi4BZ9nnDz/Lepv7x1Ea9A2wGK6oI="
+  },
+  "directories": {
+    "img": "sha256-EVEKKRRLWAhC0h9FEzZPRAYOD5umh5kCXXyIluRSQyI="
+  }
+}

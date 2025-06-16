@@ -1,0 +1,10 @@
+{
+  "directories": {
+    "assets": "sha256-UDXMRO23nXBnd7nQo037ztGmZQvUNKNdCgnYK0hkI2Q=",
+    "lib": "sha256-GStEeRwu7B+hsuwwVIjYAcTKUgZpQfEuwqfxx/ci4GY="
+  },
+  "files": {
+    "index.js": "sha256-acA1Uztb0oLyGBEUisuIFVRNGC57qLmIAB1npj9beek=",
+    "scconfig.json": "sha256-d07jA14l4+cVR2Aa1jSZCI5SyNmDdiDGPdJj249djwU="
+  }
+}

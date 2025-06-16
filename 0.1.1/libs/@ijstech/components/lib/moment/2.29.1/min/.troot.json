@@ -1,0 +1,12 @@
+{
+  "files": {
+    "locales.js": "sha256-4TW1fNCsmxW5K+CdKOWE2MzH41awIyinCXmUxEAllyU=",
+    "locales.min.js": "sha256-bNdXSWSl0uoveG0VatrraNd1PIF+1pSFMrdRnoFC/7E=",
+    "locales.min.js.map": "sha256-GNmY5GXt6hjUHC7lrFNIPrX/KJ7fDPTLRLRK6l18rbE=",
+    "moment-with-locales.js": "sha256-0VGz55TiYtPf/yOQF7Sy2jQyJbdG8tlXIvLbD+qbh0g=",
+    "moment-with-locales.min.js": "sha256-E3Snwx6F4t7DiA/L3DgPk6In2M1747JSau+3PWjtS5I=",
+    "moment-with-locales.min.js.map": "sha256-NCd3z1OFoSwVxjJ21NfzjoDx9rkYIR4Q0AtOcoUkKQo=",
+    "moment.min.js": "sha256-c95CVJWVMOTR2b7FhjeRhPlrSVPaz5zV5eK917/s7vc=",
+    "moment.min.js.map": "sha256-QmrpJZ+mcJwndtGBnlcxEIeywRo7uIbTfb7CTqxKL8Q="
+  }
+}

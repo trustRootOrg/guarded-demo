@@ -1,0 +1,8 @@
+{
+    "name": "@scom/scom-code-viewer",
+    "type": "widget",
+    "version": "0.1.14",
+    "dependencies": [
+        "@ijstech/components"
+    ]
+}

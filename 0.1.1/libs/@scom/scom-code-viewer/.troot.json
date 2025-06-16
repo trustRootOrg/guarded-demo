@@ -1,0 +1,9 @@
+{
+  "files": {
+    "index.js": "sha256-0T3EZwZa/dZr6pWUu/zcWWTPiBjHctpb2bP4QI5cbOQ=",
+    "scconfig.json": "sha256-3OX7RTqDKETrygSmsZ9akIw0QmyhhLElWOFVmmjCmhk="
+  },
+  "directories": {
+    "lib": "sha256-i7Bu6T2aZUbJSNRxlfhwWigOs8SOYr+AvXn/6fgBaR0="
+  }
+}

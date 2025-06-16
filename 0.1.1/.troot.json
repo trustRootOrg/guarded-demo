@@ -1,0 +1,19 @@
+{
+  "libs": [
+    {
+      "src": "/0.1.1/libs/@ijstech/components/index.js",
+      "integrity": "undefined"
+    },
+    {
+      "script": "async function init() {\n      let module = await application.init('/0.1.1/scconfig.json');\n      document.body.append(module);\n    };\n    init();"
+    }
+  ],
+  "directories": {
+    "data": "sha256-nBsToqPcWEDLD2E0DViC+pkD/4a3cq0CWlBVznY8/IY=",
+    "libs": "sha256-F8fgune/+CQPfw/r3KiVsr9BaNN9WzUI1brfhtWkmKM="
+  },
+  "files": {
+    "scconfig.json": "sha256-LaQK+4yPbhKHf6SaOHCn2c8hdYVntOR+mg/jYdUa7sE=",
+    "trootGuard.js": "sha256-ofr8wXisbo1v/mwx6npZZyoB46aLuF3GEnPsgZRfLI4="
+  }
+}

@@ -1,0 +1,4 @@
+# Abstract
+
+TrustRoot is a decentralized protocol designed to empower autonomous agents with verifiable trust, addressing the critical challenges of blind trust, inadequate security, and fraud in Web3 automation. By leveraging immutable registries, Secure Enclave technology, and a robust token model with $TROOT, TrustRoot ensures transparency, authenticity, and tamper-proof verifiability for agent interactions. As a protocol-only layer, TrustRoot provides the infrastructure—registries, an SDK, and certification standards—for third-party projects to build trusted solutions like oracles and agents, fostering a scalable ecosystem for DeFi, gaming, DAOs, and beyond. This whitepaper outlines TrustRoot’s vision, architecture, value proposition, token economics, and roadmap, demonstrating how it secures the future of Web3 automation.
+

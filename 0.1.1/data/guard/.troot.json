@@ -1,0 +1,10 @@
+{
+  "files": {
+    "README.md": "sha256-JzHD6mnxUT8wnDYI+Jo1Hp47rCtnJoaQAFVbCodyXtQ=",
+    "cli.md": "sha256-qUcXKoEuhFJObz+OBmZ2P5fRxhgyAaIPrOMPtDy5PEw="
+  },
+  "directories": {
+    "extension": "sha256-IKOkt0VrFKk4zqDyf4W3SLHIga/97aFX0hukgcVfQT4=",
+    "serviceWorker": "sha256-Chsnc0t1yjhUDoZld1t/wsvgeIP2ubR9L6Ecc9XNMTc="
+  }
+}

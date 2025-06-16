@@ -1,0 +1,12 @@
+{
+  "files": {
+    "ipfs.js": "sha256-jwSYWBJ5Xn05TH/S0VKHxE4/L7Jm5LCnJvZlCxkH52c=",
+    "purify.js": "sha256-QiFtmJtnxjtIB7eujJIlp13P+OZcJCmsb7osXp59/lQ="
+  },
+  "directories": {
+    "marked": "sha256-fSLkOCkzhXQny3gcOwdXYIraHodNldPDoWwpWCqIqwc=",
+    "moment": "sha256-LdnByw/yRigR3lEi9fCan/crdEQqyMUwJFn0q8fjCkE=",
+    "tui-editor": "sha256-DFTwP9QFMDbeFAqV8nwepMM5eOQ7tubh97aLDuPnx8w=",
+    "video-js": "sha256-wKykZIFKA73EFS0eEzpNUEPrmzDFHMpReEM+R0fmUYg="
+  }
+}
