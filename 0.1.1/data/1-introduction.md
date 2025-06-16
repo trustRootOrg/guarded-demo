@@ -1,4 +1,4 @@
-# 1. Introduction
+# 1. Introduction (modified)
 
 ## 1.1 Background
 The rise of Web3 and AI-driven automation has ushered in a new era of autonomous agents—software entities that execute tasks on behalf of users, from DeFi trading to DAO governance and social platform moderation. Beyond agents, even traditional web users face challenges in verifying that sites and services haven’t been tampered with, exposing them to risks like data theft and fraud, which underscores the broader need for verifiable trust in digital interactions. However, the lack of verifiable trust in agent interactions poses significant risks, including fraud, manipulation, and security breaches. Existing solutions, such as SSL/TLS, fail to provide tamper-proof execution or transparency, leaving agents vulnerable to attacks and users exposed to blind trust.
